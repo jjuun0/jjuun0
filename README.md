@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 - 🏃 Activity  
   - Hanium projects  
+  
     i. 독거 노인 혹은 1인 가구를 위한 출입 기록, 안전 감지 서비스  
+    
     ii. 스마트 분리수거  
     
   - 학부생 인턴  
