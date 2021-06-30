@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   - 학부생 인턴  
     - 플렌옵틱 영상에서의 다수의 객체 추적  
     
-  - Sapiens 4.0 supporters  
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
