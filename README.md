@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi~! My name is Junhyoung Lee. 👋
 
 
 <!--
@@ -16,16 +16,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💻 I'm studying Department of Applied IT Engineering  
-
-- 🏃 Activity  
-  - Hanium projects  
+- 😄 I'm interesting with Vision Task
+  - GAN
+  - Object detection, segmentation, tracking
   
-    i. 독거 노인 혹은 1인 가구를 위한 출입 기록, 안전 감지 서비스  
+- 🏃 Projects  
+  - 한이음 프로젝트 (2021.03 ~ 2021.11)
+  
+    - 독거 노인 혹은 1인 가구를 위한 출입 기록, 안전 감지 서비스  
     
-    ii. 스마트 분리수거  
+    - 스마트 분리수거(플라스틱, 유리, 캔)  
     
-  - 학부생 인턴  
-    - 플렌옵틱 영상에서의 다수의 객체 추적  
+    
+  - 학부생 연구원  (2021.03 ~ 2022.08)
+    - 플렌옵틱 영상에서의 다수의 객체 추적-1 (논문 작성 예정)
+      - SiamRPN++ 사용한 속도 기반 알고리즘 제안   
+    - 플렌옵틱 영상에서의 다수의 객체 추적-2 
+      - 정확도를 높이기 위한 CSWinTT 모델로 변경
+      
+  - 캡스톤 디자인 (2021.03 ~ 2022.06)
+    - Transformer 를 활용한 Step-wise Style mixing (논문 작성중)
     
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -36,8 +46,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp 
+
 
