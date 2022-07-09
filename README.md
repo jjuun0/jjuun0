@@ -23,19 +23,19 @@ Here are some ideas to get you started:
 - 🏃 Projects  
   - 한이음 프로젝트 (2021.03 ~ 2021.11)
   
-    - 독거 노인 혹은 1인 가구를 위한 출입 기록, 안전 감지 서비스  
+    - 독거 노인 혹은 1인 가구를 위한 출입 기록, 안전 감지 서비스  [link](https://github.com/jjuun0/smart-home)
     
-    - 스마트 분리수거(플라스틱, 유리, 캔)  
+    - 스마트 분리수거(플라스틱, 유리, 캔)  [link](https://github.com/jjuun0/Smart_Recycling)
     
     
   - 학부생 연구원  (2021.03 ~ 2022.08)
-    - 플렌옵틱 영상에서의 다수의 객체 추적-1 (논문 작성 예정)
+    - 플렌옵틱 영상에서의 다수의 객체 추적-1 [link](https://github.com/jjuun0/object-tracking) (논문 작성 예정) 
       - SiamRPN++ 사용한 속도 기반 알고리즘 제안   
-    - 플렌옵틱 영상에서의 다수의 객체 추적-2 
+    - 플렌옵틱 영상에서의 다수의 객체 추적-2 [link](https://github.com/jjuun0/object-tracking-2)
       - 정확도를 높이기 위한 CSWinTT 모델로 변경
       
   - 캡스톤 디자인 (2021.03 ~ 2022.06)
-    - Transformer 를 활용한 Step-wise Style mixing (논문 작성중)
+    - Transformer 를 활용한 Step-wise Style mixing (논문 작성중) [link](https://github.com/jjuun0/Capstone_Design)
     
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
