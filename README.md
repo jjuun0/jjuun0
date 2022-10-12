@@ -28,10 +28,10 @@ Here are some ideas to get you started:
     - 스마트 분리수거(플라스틱, 유리, 캔)  [link](https://github.com/jjuun0/Smart_Recycling)
     
     
-  - 학부생 연구원  (2021.03 ~ 2022.08)
-    - 플렌옵틱 영상에서의 다수의 객체 추적-1 [link](https://github.com/jjuun0/object-tracking) (논문 작성 예정) 
+  - 학부 연구원  (2021.03 ~ 2022)
+    - 플렌옵틱 영상에서의 다수의 객체 추적-1 [link](https://github.com/jjuun0/object-tracking) 
       - SiamRPN++ 사용한 속도 기반 알고리즘 제안   
-    - 플렌옵틱 영상에서의 다수의 객체 추적-2 [link](https://github.com/jjuun0/object-tracking-2)
+    - 플렌옵틱 영상에서의 다수의 객체 추적-2 [link](https://github.com/jjuun0/object-tracking-2) (해외 학술지 논문 작성중) 
       - 정확도를 높이기 위한 CSWinTT 모델로 변경
       
   - 캡스톤 디자인 (2021.03 ~ 2022.06)
