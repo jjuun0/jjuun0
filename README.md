@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 💻 I'm studying Department of Applied IT Engineering  
 - 😄 I'm interesting with Vision Task
-  - GAN
+  - Generation model
   - Object detection, segmentation, tracking
   
 - 🏃 Projects  
@@ -28,14 +28,14 @@ Here are some ideas to get you started:
     - 스마트 분리수거(플라스틱, 유리, 캔)  [link](https://github.com/jjuun0/Smart_Recycling)
     
     
-  - 학부 연구원  (2021.03 ~ 2022)
+  - 학부 연구원  (2020.11 ~ present)
     - 플렌옵틱 영상에서의 다수의 객체 추적-1 [link](https://github.com/jjuun0/object-tracking) 
       - SiamRPN++ 사용한 속도 기반 알고리즘 제안   
     - 플렌옵틱 영상에서의 다수의 객체 추적-2 [link](https://github.com/jjuun0/object-tracking-2) (해외 학술지 논문 작성중) 
       - 정확도를 높이기 위한 CSWinTT 모델로 변경
       
-  - 캡스톤 디자인 (2021.03 ~ 2022.06)
-    - Transformer 를 활용한 Step-wise Style mixing (논문 작성중) [link](https://github.com/jjuun0/Capstone_Design)
+  - 캡스톤 디자인 (2022.03 ~ 2022.06)
+    - Generative Stylization Using Non-linear Style Mixingvia Layer-wise Transformers (논문 작성중) [link](https://github.com/jjuun0/Capstone_Design)
     
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
