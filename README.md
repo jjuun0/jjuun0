@@ -43,6 +43,8 @@ Here are some ideas to get you started:
     - 항공 이미지 데이터를 활용한 건물 변화 탐지 (링크는 추후 공개)
     - 데이터 분석 및 전처리
     
+  - 🥉 학과내 코딩 챌린지 3등
+    
   - 📚 가짜연구소 스터디 (2022.09 ~)
     - Vision Transformer의 모든 것 [link](https://www.notion.so/chanrankim/Vision-Transformer-7cd4fbe829854c40b4a5dba3e51b10f8)  
       - Tokens-to-Token ViT [발표](https://fortune-scraper-694.notion.site/Tokens-to-Token-ViT-ecb4fbba6b2a49f8a5e8ec38549dde8f) 
