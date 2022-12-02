@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 ### Project & Activity 🏃  
   - 💡 Generation, Style Transfer (2022.03 ~ 2022.06)  
-    - Generative Stylization using Non-linear Style Mixing via Layer-wise Transformers (논문 제출중) [link](https://github.com/jjuun0/Capstone_Design)  
+    - Generative Stylization using Non-linear Style Mixing via Layer-wise Transformers (전자공학회 제출 완료) [link](https://github.com/jjuun0/Capstone_Design)  
       (계층별 트랜스포머를 활용한 비선형 스타일 결합 기반 생성적 스타일 변환)
   - 💸 Object Tracking / 학부 연구생 (2021.05 ~ 2022.08)
     - 플렌옵틱 영상에서의 다수의 객체 추적-1 [link](https://github.com/jjuun0/object-tracking) 
@@ -39,11 +39,13 @@ Here are some ideas to get you started:
       - 데이터 검증
       - 3D 데이터 학습  
      
-  - 🏅 2022 국방 AI 경진대회(AI Connect)  
-    - 항공 이미지 데이터를 활용한 건물 변화 탐지 (링크는 추후 공개)
-    - 데이터 분석 및 전처리
+  - 🏅 2022 국방 AI 경진대회(AI Connect) [link](https://github.com/jjuun0/MAICON)  
+    - 예선: 항공 이미지 데이터를 활용한 건물 변화 탐지
+      - 데이터 분석 및 전처리(불균형 데이터 CutMix, Augmentation으로 데이터 4000장 증강해 균형 맞춤)
+    - 본선: 화상 이미지 노이즈 제거 (Restoration, Denoising)
+      - 데이터 분석 및 데이터 셋 재구성후 모델 학습
     
-  - 🥉 학과내 코딩 챌린지 3등
+  - 🥉 코딩 챌린지 3등 (전체 학부 대상)
     
   - 📚 가짜연구소 스터디 (2022.09 ~)
     - Vision Transformer의 모든 것 [link](https://www.notion.so/chanrankim/Vision-Transformer-7cd4fbe829854c40b4a5dba3e51b10f8)  
