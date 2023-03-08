@@ -29,7 +29,7 @@ Here are some ideas to get you started:
       - 모델의 추적 성능 향상: RPN 앙상블을 통해 모델의 추론 값의 큰 변화를 줄여 작은 변화를 이끔. 
       -	추적 속도 향상: 프레임별로 객체의 가속도를 측정하여 속도가 줄어드는 구간은 건너뜀.
   
-    - 플렌옵틱 영상에서의 다수의 객체 추적-2 [link](https://github.com/jjuun0/object-tracking-2) (해외 학술지 논문 작성중) 
+    - 플렌옵틱 영상에서의 다수의 객체 추적-2 [link](https://github.com/jjuun0/object-tracking-2)
       - 정확도를 높이기 위한 cyclic shifted shifted window 기반 CSWinTT 모델로 변경 
       - 추적 성능 향상  
         - 모델의 confidence 값으로 타겟 객체 업데이트를 통해 타겟의 외형이 변하는 것을 잘 파악함.  
@@ -60,8 +60,6 @@ Here are some ideas to get you started:
       - ACK 2021 논문 개제 [link](https://koreascience.kr/article/CFKO202133649064979.pdf)
     - 스마트 분리수거 (플라스틱, 유리, 캔)  [link](https://github.com/jjuun0/Smart_Recycling)
       
-  - 🧸 사피엔스 4.0 · KB 디지털 멘토링 자유학기제 (2021.03 ~ 2021.08)
-    - 중학생 대상 블록 코딩 교육 멘토링(중화중, 성사중, 목일중) (링크 생성중)
     
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
