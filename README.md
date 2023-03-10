@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 [EASYWITH](http://easywith.com/) AI.ART 
 - 🌱 Interest: Image Generation · Diffusion
 
+---
+
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -29,7 +31,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
-  
+
+---
+
 ### Project  
 #### 💡 Generation, Style Transfer (2022.03 ~ 2022.06)  
    - Generative Stylization using Non-linear Style Mixing via Layer-wise Transformers (전자공학회 제출 완료) [link](https://github.com/jjuun0/Capstone_Design)  
@@ -45,7 +49,7 @@ Here are some ideas to get you started:
       - 추적 성능 향상  
         - 모델의 confidence 값으로 타겟 객체 업데이트를 통해 타겟의 외형이 변하는 것을 잘 파악함.  
         - 동적 탐색 영역 제한을 통해 타겟에 초점이 맞춰진 여러 포컬 이미지로 타겟의 추적 정확도를 높임.
-
+---
 ### Activity             
 #### 🏅 2022 국방 AI 경진대회(AI Connect) [link](https://github.com/jjuun0/MAICON)  
   - 예선 (8등/110팀) 
