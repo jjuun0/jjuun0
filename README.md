@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Project  
 #### 💡 Generation, Style Transfer (2022.03 ~ 2022.06)  
-   - Generative Stylization using Non-linear Style Mixing via Layer-wise Transformers (전자공학회 제출 완료) [link](https://github.com/jjuun0/Capstone_Design)  
+   - Generative Stylization using Non-linear Style Mixing via Layer-wise Transformers ([전자공학회 개제 완료](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002960159), KCI 우수등재) [link](https://github.com/jjuun0/Capstone_Design)  
       (계층별 트랜스포머를 활용한 비선형 스타일 결합 기반 생성적 스타일 변환)
 #### 💸 Object Tracking / 학부 연구생 (2021.05 ~ 2022.08)
   - 플렌옵틱 영상에서의 다수의 객체 추적-1 [link](https://github.com/jjuun0/object-tracking) 
