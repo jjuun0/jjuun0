@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 안녕하세요! 세상에 편리하고, 재밌는 서비스를 제공하는 AI Engineer가 되고 싶은 이준형입니다. 
-- 😄 [EASYWITH](http://easywith.com/) AI.ART (2023.03~)
-- 🌱 Interest: Image Generation · Diffusion
+- 💻 안녕하세요! 세상에 편리하고, 재밌는 서비스를 제공하는 AI Research Engineer, 이준형입니다. 
+- 😄 [EASYWITH](http://easywith.com/) AI.ART.TF (2023.03~) | Generative AI
+- 🌱 Interest: Generation AI, Computer Vision
 
 ---
 
