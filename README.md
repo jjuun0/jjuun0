@@ -62,8 +62,11 @@ Here are some ideas to get you started:
 #### 🥉 코딩 챌린지 3등 (학부 대상)
     
 #### 📚 가짜연구소 스터디 (2022.09 ~ 2022.12)
-  - Vision Transformer의 모든 것 [link](https://www.notion.so/chanrankim/Vision-Transformer-7cd4fbe829854c40b4a5dba3e51b10f8)  
-    - Tokens-to-Token ViT [발표](https://fortune-scraper-694.notion.site/Tokens-to-Token-ViT-ecb4fbba6b2a49f8a5e8ec38549dde8f) 
+  - Vision Transformer 스터디 [link](https://www.notion.so/chanrankim/Vision-Transformer-7cd4fbe829854c40b4a5dba3e51b10f8)  
+    - Tokens-to-Token ViT [발표](https://fortune-scraper-694.notion.site/Tokens-to-Token-ViT-ecb4fbba6b2a49f8a5e8ec38549dde8f)
+  - Diffusers 번역 [link](https://chanrankim.notion.site/Diffusers-74ee1ba809e14f8692d7384c025768a0)
+     - diffusers github 기여 link 
+  - Text-to-Image Generation 스터디 [link](https://chanrankim.notion.site/Text-to-Image-Generation-feat-Diffusion-cc12047d1bfc4bdfa70122c11ff90aee)
     
 #### 📖 교내 학술 동아리(2022.03 ~)
   - 코딩테스트 스터디 [link](https://github.com/Hansung-include/Coding-Test-Study)
