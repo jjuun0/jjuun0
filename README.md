@@ -55,7 +55,12 @@ Here are some ideas to get you started:
         - 모델의 confidence 값으로 타겟 객체 업데이트를 통해 타겟의 외형이 변하는 것을 잘 파악함.  
         - 동적 탐색 영역 제한을 통해 타겟에 초점이 맞춰진 여러 포컬 이미지로 타겟의 추적 정확도를 높임.
 ---
-### Activity             
+### Activity  
+#### 🥇 2024 스마일게이트 AI 서비스 위클리톤 대상 수상
+  - [StoryWeaver](https://github.com/jjuun0/AIStoryWeaver): Game quest story generator
+    - 퀘스트 스토리 생성: ChatGPT prompt engineering 
+    - 퀘스트 아이템 이미지 생성: Dall-e API
+      
 #### 🤗 [HuggingFace Hackathon](https://pseudo-lab.github.io/huggingface-hackathon23/ko/)
   - [Colorful illustration](https://github.com/jjuun0/Colorful-illustration)  
     - SDXL 1.0 모델을 lora 방법으로 finetuning 하여 colorful한 스타일로 생성 가능  
